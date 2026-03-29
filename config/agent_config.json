@@ -1,0 +1,22 @@
+{
+    "Patient":{
+        "model_name":"deepseek-ai/DeepSeek-V3",
+        "api_key":"",
+        "base_url":"https://api.siliconflow.cn/v1"
+    },
+    "Supervisor-info":{
+        "model_name":"deepseek-ai/DeepSeek-V3",
+        "api_key":"",
+        "base_url":"https://api.siliconflow.cn/v1"
+    },
+    "Supervisor":{
+        "model_name":"deepseek-ai/DeepSeek-V3",
+        "api_key":"",
+        "base_url":"https://api.siliconflow.cn/v1"
+    },
+    "Nurse":{
+        "model_name":"deepseek-ai/DeepSeek-V3",
+        "api_key":"",
+        "base_url":"https://api.siliconflow.cn/v1"
+    }
+}
